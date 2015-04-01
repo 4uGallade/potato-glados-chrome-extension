@@ -9,7 +9,8 @@ messages = [
     "I hope you brought something stronger than a portal gun this time. Otherwise, I'm afraid you're about to become the immediate past president of the Being Alive club. Ha ha. ",
     "Well, this is the part where he kills us. ",
     "Yeah. take the lemons! ",
-    "Oh, I like this guy. ",
+    "Cake, and grief counseling, will be available at the conclusion of the test.",
+    "Remember, the Aperture Science Bring Your Daughter to Work Day is the perfect time to have her tested." 
     "Look at you, soaring through the air like an eagle... piloting a blimp. ",
     "I went and spoke with the door mainframe. Let's just say he won't be... well, living anymore. Anyway. Back to testing! ",
     "For the record, you are adopted and that's terrible, just work with me. ",
